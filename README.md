@@ -81,12 +81,12 @@
 ---
 
 #### 📝 Online Examination System
-> Java • JDBC • MySQL • MVC Architecture
+> Java Servlets • JSP  • JDBC • MySQL • MVC Architecture
 
 - Secure authentication + time-bound assessments with role-based access
 - Normalised MySQL schema with transaction management
 - Clean MVC separation — maintainable, production-style codebase
-- 🔗 [View Repository](https://github.com/shubhangickore)
+- 🔗 [View Repository](https://github.com/shubhangickore/OnlineExamSystem.git)
 
 ---
 
