@@ -76,7 +76,7 @@
 - Multi-user real-time code collaboration with sub-100ms latency
 - Modular REST APIs + event-driven WebSocket architecture
 - Session-based access control and secure routing
-- 🔗 [View Repository](https://github.com/shubhangickore)
+- 🔗 [View Repository](https://github.com/shubhangickore/Code_Editor)
 
 ---
 
