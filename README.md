@@ -12,7 +12,7 @@
 - 🎓 Final-year **B.E. Information Technology** student at Amrutvahini College of Engineering (CGPA: **9.3**)
 - 💼 Seeking **Associate System Engineer / Software Engineer** roles
 - 🔭 Currently working on: **Real-Time Collaborative Code Editor** (React.js + Node.js)
-- ⚡ Fun fact: I love breaking problems into smaller pieces — both in code and in life!
+- ⚡ Fun fact: I love breaking problems into smaller piece — both in code and in life!
 
 ---
 
