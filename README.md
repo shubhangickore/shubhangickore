@@ -22,15 +22,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/>
 </p>
@@ -43,31 +40,6 @@
 </p>
 
 ---
-
-### 🧩 DSA & Problem Solving
-
-> I consistently practice Data Structures & Algorithms on LeetCode — solutions saved in **[Java_DSA_Solution](https://github.com/shubhangickore/Java_DSA_Solution)** ☕
-
-<p align="center">
-  <a href="https://leetcode.com/u/shubhangi_kore/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/shubhangi_kore?theme=light&font=Fira+Code&ext=heatmap" alt="Shubhangi's LeetCode Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/shubhangi_kore/">
-    <img src="https://img.shields.io/badge/LeetCode-shubhangi__kore-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://github.com/shubhangickore/Java_DSA_Solution">
-    <img src="https://img.shields.io/badge/DSA_Repo-Java_Solutions-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  </a>
-</p>
-
-**Topics Practiced:**
-`Arrays` `Strings` `HashMap` `Linked Lists` `Binary Search` `Recursion` `Stacks & Queues` `OOP-based Problems`
-
----
-
 ### 🚀 Featured Projects
 
 #### 🖥️ Real-Time Collaborative Code Editor
@@ -90,13 +62,12 @@
 
 ---
 
-#### ☕ Java DSA Solutions
+#### ☕ Java Coding Practice
 > Java • LeetCode • Data Structures & Algorithms
 
 - Organized solutions across Arrays, Strings, LinkedLists, Trees and more
-- Each solution includes time & space complexity notes
 - Actively growing with consistent daily practice
-- 🔗 [View Repository](https://github.com/shubhangickore/Java_DSA_Solution)
+- 🔗 [View Repository](https://github.com/shubhangickore/Coding-Practice)
 
 ---
 
