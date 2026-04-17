@@ -68,32 +68,9 @@
 - Actively growing with consistent daily practice
 - 🔗 [View Repository](https://github.com/shubhangickore/Coding-Practice)
 
----
 
-### 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| ☁️ AWS Certified Cloud Practitioner | Amazon Web Services |
-| 🔐 Saviynt Identity Security for the AI Age | Saviynt |
-| ☕ Programming in Java | NPTEL |
-| 📊 AMCAT Employability Assessment | AMCAT |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhangickore&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhangickore&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhangickore&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
 ### 📬 Connect With Me
 
 <p align="center">
@@ -117,4 +94,4 @@
   <img src="https://komarev.com/ghpvc/?username=shubhangickore&label=Profile+Views&color=0F62FE&style=flat" alt="profile views" />
 </p>
 
-<p align="center"><i>"Code is like humor. When you have
+
