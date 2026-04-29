@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubhangi Kore</h1>
+<h1 align="center">Hi 👋, I'm ShubhangiKore</h1>
 <h3 align="center">Final-Year IT Student  • Java Developer • Full-Stack Developer •Frontend Developer </h3>
 
 <p align="center">
