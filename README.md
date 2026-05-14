@@ -94,15 +94,12 @@
   <img src="https://komarev.com/ghpvc/?username=shubhangickore&label=Profile+Views&color=0F62FE&style=flat" alt="profile views" />
 </p>
 
-
-
-<p>Berkeley Algorithm :</p>
  BerkeleyAlgorithm.java
 import java.util.*;
 
 public class BerkeleyAlgorithm {
 
-   public static void main(String[] args) {
+    public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
 
@@ -146,4 +143,3 @@ public class BerkeleyAlgorithm {
         sc.close();
     }
 }
-
