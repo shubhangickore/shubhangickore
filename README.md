@@ -95,3 +95,55 @@
 </p>
 
 
+
+<p>Berkeley Algorithm :</p>
+ BerkeleyAlgorithm.java
+import java.util.*;
+
+public class BerkeleyAlgorithm {
+
+   public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter number of clocks (including server): ");
+        int n = sc.nextInt();
+
+        int[] time = new int[n];
+
+        // Input clock times
+        for (int i = 0; i < n; i++) {
+            System.out.print("Enter time of clock " + i + ": ");
+            time[i] = sc.nextInt();
+        }
+
+        int serverTime = time[0]; // assume first clock is server
+        int sumDiff = 0;
+
+        System.out.println("\n--- Time Differences w.r.t Server ---");
+
+        int[] diff = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            diff[i] = time[i] - serverTime;
+            System.out.println("Clock " + i + " difference = " + diff[i]);
+            sumDiff += diff[i];
+        }
+
+        // Calculate average difference
+        int avgDiff = sumDiff / n;
+
+        System.out.println("\nAverage Difference = " + avgDiff);
+
+        // Adjust times
+        System.out.println("\n--- Adjusted Times ---");
+
+        for (int i = 0; i < n; i++) {
+            int adjustedTime = time[i] - diff[i] + avgDiff;
+            System.out.println("Clock " + i + " adjusted time = " + adjustedTime);
+        }
+
+        sc.close();
+    }
+}
+
