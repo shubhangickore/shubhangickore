@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubhangi Kore</h1>
-<h3 align="center">Information Technology • Java Developer • Full-Stack Developer •Frontend Developer </h3>
+<h3 align="center">Information Technology • Java Developer • Production Support • Full-Stack Developer •Frontend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0F62FE&center=true&vCenter=true&width=500&lines=Java+%7C+React.js+%7C+Developer;AWS+Cloud+Practitioner+Certified;Building+Real-World+Projects;Open+to+Software+Developer+Roles" alt="Typing SVG" />
